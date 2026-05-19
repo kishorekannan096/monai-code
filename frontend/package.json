@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "echo 'static build only — artifacts in dist/'"
   },
   "dependencies": {
     "react": "^19.2.0",
